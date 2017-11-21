@@ -1,0 +1,273 @@
+C:\Users\comercial3\source\repos\ApplicationCrud\ApplicationCrud\bin\ApplicationInsights.config
+C:\Users\comercial3\source\repos\ApplicationCrud\ApplicationCrud\bin\ApplicationCrud.dll.config
+C:\Users\comercial3\source\repos\ApplicationCrud\ApplicationCrud\bin\ApplicationCrud.dll
+C:\Users\comercial3\source\repos\ApplicationCrud\ApplicationCrud\bin\ApplicationCrud.pdb
+C:\Users\comercial3\source\repos\ApplicationCrud\ApplicationCrud\bin\Antlr3.Runtime.dll
+C:\Users\comercial3\source\repos\ApplicationCrud\ApplicationCrud\bin\EntityFramework.dll
+C:\Users\comercial3\source\repos\ApplicationCrud\ApplicationCrud\bin\EntityFramework.SqlServer.dll
+C:\Users\comercial3\source\repos\ApplicationCrud\ApplicationCrud\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\comercial3\source\repos\ApplicationCrud\ApplicationCrud\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\comercial3\source\repos\ApplicationCrud\ApplicationCrud\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\comercial3\source\repos\ApplicationCrud\ApplicationCrud\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\comercial3\source\repos\ApplicationCrud\ApplicationCrud\bin\Microsoft.AI.Web.dll
+C:\Users\comercial3\source\repos\ApplicationCrud\ApplicationCrud\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\comercial3\source\repos\ApplicationCrud\ApplicationCrud\bin\Microsoft.ApplicationInsights.dll
+C:\Users\comercial3\source\repos\ApplicationCrud\ApplicationCrud\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\comercial3\source\repos\ApplicationCrud\ApplicationCrud\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\comercial3\source\repos\ApplicationCrud\ApplicationCrud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\comercial3\source\repos\ApplicationCrud\ApplicationCrud\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\comercial3\source\repos\ApplicationCrud\ApplicationCrud\bin\Newtonsoft.Json.dll
+C:\Users\comercial3\source\repos\ApplicationCrud\ApplicationCrud\bin\System.Web.Helpers.dll
+C:\Users\comercial3\source\repos\ApplicationCrud\ApplicationCrud\bin\System.Web.Mvc.dll
+C:\Users\comercial3\source\repos\ApplicationCrud\ApplicationCrud\bin\System.Web.Optimization.dll
+C:\Users\comercial3\source\repos\ApplicationCrud\ApplicationCrud\bin\System.Web.Razor.dll
+C:\Users\comercial3\source\repos\ApplicationCrud\ApplicationCrud\bin\System.Web.WebPages.Deployment.dll
+C:\Users\comercial3\source\repos\ApplicationCrud\ApplicationCrud\bin\System.Web.WebPages.dll
+C:\Users\comercial3\source\repos\ApplicationCrud\ApplicationCrud\bin\System.Web.WebPages.Razor.dll
+C:\Users\comercial3\source\repos\ApplicationCrud\ApplicationCrud\bin\WebGrease.dll
+C:\Users\comercial3\source\repos\ApplicationCrud\ApplicationCrud\bin\EntityFramework.xml
+C:\Users\comercial3\source\repos\ApplicationCrud\ApplicationCrud\bin\EntityFramework.SqlServer.xml
+C:\Users\comercial3\source\repos\ApplicationCrud\ApplicationCrud\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\comercial3\source\repos\ApplicationCrud\ApplicationCrud\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\comercial3\source\repos\ApplicationCrud\ApplicationCrud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\comercial3\source\repos\ApplicationCrud\ApplicationCrud\bin\System.Web.Helpers.xml
+C:\Users\comercial3\source\repos\ApplicationCrud\ApplicationCrud\bin\System.Web.Mvc.xml
+C:\Users\comercial3\source\repos\ApplicationCrud\ApplicationCrud\bin\System.Web.Optimization.xml
+C:\Users\comercial3\source\repos\ApplicationCrud\ApplicationCrud\bin\System.Web.Razor.xml
+C:\Users\comercial3\source\repos\ApplicationCrud\ApplicationCrud\bin\System.Web.WebPages.xml
+C:\Users\comercial3\source\repos\ApplicationCrud\ApplicationCrud\bin\System.Web.WebPages.Deployment.xml
+C:\Users\comercial3\source\repos\ApplicationCrud\ApplicationCrud\bin\System.Web.WebPages.Razor.xml
+C:\Users\comercial3\source\repos\ApplicationCrud\ApplicationCrud\bin\Antlr3.Runtime.pdb
+C:\Users\comercial3\source\repos\ApplicationCrud\ApplicationCrud\bin\Newtonsoft.Json.xml
+C:\Users\comercial3\source\repos\ApplicationCrud\ApplicationCrud\bin\Microsoft.ApplicationInsights.xml
+C:\Users\comercial3\source\repos\ApplicationCrud\ApplicationCrud\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\comercial3\source\repos\ApplicationCrud\ApplicationCrud\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\comercial3\source\repos\ApplicationCrud\ApplicationCrud\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\comercial3\source\repos\ApplicationCrud\ApplicationCrud\bin\Microsoft.AI.Web.xml
+C:\Users\comercial3\source\repos\ApplicationCrud\ApplicationCrud\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\comercial3\source\repos\ApplicationCrud\ApplicationCrud\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\comercial3\source\repos\ApplicationCrud\ApplicationCrud\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\comercial3\source\repos\ApplicationCrud\ApplicationCrud\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\comercial3\source\repos\ApplicationCrud\ApplicationCrud\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\comercial3\source\repos\ApplicationCrud\ApplicationCrud\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\comercial3\source\repos\ApplicationCrud\ApplicationCrud\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\comercial3\source\repos\ApplicationCrud\ApplicationCrud\obj\Debug\ApplicationCrud.csprojResolveAssemblyReference.cache
+C:\Users\comercial3\source\repos\ApplicationCrud\ApplicationCrud\obj\Debug\ApplicationCrud.csproj.CoreCompileInputs.cache
+C:\Users\comercial3\source\repos\ApplicationCrud\ApplicationCrud\obj\Debug\ApplicationCrud.dll
+C:\Users\comercial3\source\repos\ApplicationCrud\ApplicationCrud\obj\Debug\ApplicationCrud.pdb
+C:\Users\comercial3\source\repos\ApplicationCrud\ApplicationCrud\obj\Debug\ApplicationCrud.Migrations.MigrationProjeto.resources
+C:\Users\comercial3\source\repos\ApplicationCrud\ApplicationCrud\obj\Debug\ApplicationCrud.csproj.GenerateResource.Cache
+C:\Users\comercial3\source\repos\ApplicationCrud\ApplicationCrud\obj\Debug\ApplicationCrud.Migrations.Dados.resources
+C:\Users\comercial3\source\repos\ApplicationCrud\ApplicationCrud\obj\Debug\ApplicationCrud.Migrations.MigrationProjeto1.resources
+C:\Users\comercial3\source\repos\ApplicationCrud\ApplicationCrud\obj\Debug\ApplicationCrud.Migrations.MigrationProjeto2.resources
+C:\Users\comercial3\source\repos\ApplicationCrud\ApplicationCrud\obj\Debug\ApplicationCrud.Migrations.Dados1.resources
+C:\Users\comercial3\source\repos\ApplicationCrud\ApplicationCrud\obj\Debug\ApplicationCrud.Migrations.Dados2.resources
+C:\Users\comercial3\source\repos\ApplicationCrud\ApplicationCrud\obj\Debug\ApplicationCrud.Migrations.Dados3.resources
+C:\Users\comercial3\source\repos\ApplicationCrud\ApplicationCrud\obj\Debug\ApplicationCrud.Migrations.Dados4.resources
+C:\Users\comercial3\source\repos\ApplicationCrud\ApplicationCrud\obj\Debug\ApplicationCrud.Migrations.Dados5.resources
+C:\Users\comercial3\source\repos\ApplicationCrud\ApplicationCrud\obj\Debug\ApplicationCrud.Migrations.UpdateValidations.resources
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2013\Projects\ApplicationCrud\ApplicationCrud\bin\ApplicationInsights.config
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2013\Projects\ApplicationCrud\ApplicationCrud\bin\ApplicationCrud.dll.config
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2013\Projects\ApplicationCrud\ApplicationCrud\bin\ApplicationCrud.dll
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2013\Projects\ApplicationCrud\ApplicationCrud\bin\ApplicationCrud.pdb
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2013\Projects\ApplicationCrud\ApplicationCrud\bin\Antlr3.Runtime.dll
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2013\Projects\ApplicationCrud\ApplicationCrud\bin\EntityFramework.dll
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2013\Projects\ApplicationCrud\ApplicationCrud\bin\EntityFramework.SqlServer.dll
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2013\Projects\ApplicationCrud\ApplicationCrud\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2013\Projects\ApplicationCrud\ApplicationCrud\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2013\Projects\ApplicationCrud\ApplicationCrud\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2013\Projects\ApplicationCrud\ApplicationCrud\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2013\Projects\ApplicationCrud\ApplicationCrud\bin\Microsoft.AI.Web.dll
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2013\Projects\ApplicationCrud\ApplicationCrud\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2013\Projects\ApplicationCrud\ApplicationCrud\bin\Microsoft.ApplicationInsights.dll
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2013\Projects\ApplicationCrud\ApplicationCrud\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2013\Projects\ApplicationCrud\ApplicationCrud\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2013\Projects\ApplicationCrud\ApplicationCrud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2013\Projects\ApplicationCrud\ApplicationCrud\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2013\Projects\ApplicationCrud\ApplicationCrud\bin\Newtonsoft.Json.dll
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2013\Projects\ApplicationCrud\ApplicationCrud\bin\System.Web.Helpers.dll
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2013\Projects\ApplicationCrud\ApplicationCrud\bin\System.Web.Mvc.dll
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2013\Projects\ApplicationCrud\ApplicationCrud\bin\System.Web.Optimization.dll
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2013\Projects\ApplicationCrud\ApplicationCrud\bin\System.Web.Razor.dll
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2013\Projects\ApplicationCrud\ApplicationCrud\bin\System.Web.WebPages.Deployment.dll
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2013\Projects\ApplicationCrud\ApplicationCrud\bin\System.Web.WebPages.dll
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2013\Projects\ApplicationCrud\ApplicationCrud\bin\System.Web.WebPages.Razor.dll
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2013\Projects\ApplicationCrud\ApplicationCrud\bin\WebGrease.dll
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2013\Projects\ApplicationCrud\ApplicationCrud\bin\EntityFramework.xml
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2013\Projects\ApplicationCrud\ApplicationCrud\bin\EntityFramework.SqlServer.xml
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2013\Projects\ApplicationCrud\ApplicationCrud\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2013\Projects\ApplicationCrud\ApplicationCrud\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2013\Projects\ApplicationCrud\ApplicationCrud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2013\Projects\ApplicationCrud\ApplicationCrud\bin\System.Web.Helpers.xml
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2013\Projects\ApplicationCrud\ApplicationCrud\bin\System.Web.Mvc.xml
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2013\Projects\ApplicationCrud\ApplicationCrud\bin\System.Web.Optimization.xml
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2013\Projects\ApplicationCrud\ApplicationCrud\bin\System.Web.Razor.xml
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2013\Projects\ApplicationCrud\ApplicationCrud\bin\System.Web.WebPages.xml
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2013\Projects\ApplicationCrud\ApplicationCrud\bin\System.Web.WebPages.Deployment.xml
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2013\Projects\ApplicationCrud\ApplicationCrud\bin\System.Web.WebPages.Razor.xml
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2013\Projects\ApplicationCrud\ApplicationCrud\bin\Antlr3.Runtime.pdb
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2013\Projects\ApplicationCrud\ApplicationCrud\bin\Newtonsoft.Json.xml
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2013\Projects\ApplicationCrud\ApplicationCrud\bin\Microsoft.ApplicationInsights.xml
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2013\Projects\ApplicationCrud\ApplicationCrud\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2013\Projects\ApplicationCrud\ApplicationCrud\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2013\Projects\ApplicationCrud\ApplicationCrud\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2013\Projects\ApplicationCrud\ApplicationCrud\bin\Microsoft.AI.Web.xml
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2013\Projects\ApplicationCrud\ApplicationCrud\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2013\Projects\ApplicationCrud\ApplicationCrud\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2013\Projects\ApplicationCrud\ApplicationCrud\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2013\Projects\ApplicationCrud\ApplicationCrud\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2013\Projects\ApplicationCrud\ApplicationCrud\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2013\Projects\ApplicationCrud\ApplicationCrud\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2013\Projects\ApplicationCrud\ApplicationCrud\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2013\Projects\ApplicationCrud\ApplicationCrud\obj\Debug\ApplicationCrud.csprojResolveAssemblyReference.cache
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2013\Projects\ApplicationCrud\ApplicationCrud\obj\Debug\ApplicationCrud.Migrations.MigrationProjeto.resources
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2013\Projects\ApplicationCrud\ApplicationCrud\obj\Debug\ApplicationCrud.Migrations.Dados.resources
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2013\Projects\ApplicationCrud\ApplicationCrud\obj\Debug\ApplicationCrud.Migrations.MigrationProjeto1.resources
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2013\Projects\ApplicationCrud\ApplicationCrud\obj\Debug\ApplicationCrud.Migrations.MigrationProjeto2.resources
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2013\Projects\ApplicationCrud\ApplicationCrud\obj\Debug\ApplicationCrud.Migrations.Dados1.resources
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2013\Projects\ApplicationCrud\ApplicationCrud\obj\Debug\ApplicationCrud.Migrations.Dados2.resources
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2013\Projects\ApplicationCrud\ApplicationCrud\obj\Debug\ApplicationCrud.Migrations.Dados3.resources
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2013\Projects\ApplicationCrud\ApplicationCrud\obj\Debug\ApplicationCrud.Migrations.Dados4.resources
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2013\Projects\ApplicationCrud\ApplicationCrud\obj\Debug\ApplicationCrud.Migrations.Dados5.resources
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2013\Projects\ApplicationCrud\ApplicationCrud\obj\Debug\ApplicationCrud.Migrations.UpdateValidations.resources
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2013\Projects\ApplicationCrud\ApplicationCrud\obj\Debug\ApplicationCrud.csproj.GenerateResource.Cache
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2013\Projects\ApplicationCrud\ApplicationCrud\obj\Debug\ApplicationCrud.csproj.CoreCompileInputs.cache
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2013\Projects\ApplicationCrud\ApplicationCrud\obj\Debug\ApplicationCrud.dll
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2013\Projects\ApplicationCrud\ApplicationCrud\obj\Debug\ApplicationCrud.pdb
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2017\Projects\Application-Crud\ApplicationCrud\bin\ApplicationInsights.config
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2017\Projects\Application-Crud\ApplicationCrud\bin\ApplicationCrud.dll.config
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2017\Projects\Application-Crud\ApplicationCrud\bin\ApplicationCrud.dll
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2017\Projects\Application-Crud\ApplicationCrud\bin\ApplicationCrud.pdb
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2017\Projects\Application-Crud\ApplicationCrud\bin\Antlr3.Runtime.dll
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2017\Projects\Application-Crud\ApplicationCrud\bin\EntityFramework.dll
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2017\Projects\Application-Crud\ApplicationCrud\bin\EntityFramework.SqlServer.dll
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2017\Projects\Application-Crud\ApplicationCrud\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2017\Projects\Application-Crud\ApplicationCrud\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2017\Projects\Application-Crud\ApplicationCrud\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2017\Projects\Application-Crud\ApplicationCrud\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2017\Projects\Application-Crud\ApplicationCrud\bin\Microsoft.AI.Web.dll
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2017\Projects\Application-Crud\ApplicationCrud\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2017\Projects\Application-Crud\ApplicationCrud\bin\Microsoft.ApplicationInsights.dll
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2017\Projects\Application-Crud\ApplicationCrud\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2017\Projects\Application-Crud\ApplicationCrud\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2017\Projects\Application-Crud\ApplicationCrud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2017\Projects\Application-Crud\ApplicationCrud\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2017\Projects\Application-Crud\ApplicationCrud\bin\Newtonsoft.Json.dll
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2017\Projects\Application-Crud\ApplicationCrud\bin\System.Web.Helpers.dll
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2017\Projects\Application-Crud\ApplicationCrud\bin\System.Web.Mvc.dll
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2017\Projects\Application-Crud\ApplicationCrud\bin\System.Web.Optimization.dll
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2017\Projects\Application-Crud\ApplicationCrud\bin\System.Web.Razor.dll
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2017\Projects\Application-Crud\ApplicationCrud\bin\System.Web.WebPages.Deployment.dll
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2017\Projects\Application-Crud\ApplicationCrud\bin\System.Web.WebPages.dll
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2017\Projects\Application-Crud\ApplicationCrud\bin\System.Web.WebPages.Razor.dll
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2017\Projects\Application-Crud\ApplicationCrud\bin\WebGrease.dll
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2017\Projects\Application-Crud\ApplicationCrud\bin\EntityFramework.xml
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2017\Projects\Application-Crud\ApplicationCrud\bin\EntityFramework.SqlServer.xml
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2017\Projects\Application-Crud\ApplicationCrud\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2017\Projects\Application-Crud\ApplicationCrud\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2017\Projects\Application-Crud\ApplicationCrud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2017\Projects\Application-Crud\ApplicationCrud\bin\System.Web.Helpers.xml
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2017\Projects\Application-Crud\ApplicationCrud\bin\System.Web.Mvc.xml
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2017\Projects\Application-Crud\ApplicationCrud\bin\System.Web.Optimization.xml
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2017\Projects\Application-Crud\ApplicationCrud\bin\System.Web.Razor.xml
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2017\Projects\Application-Crud\ApplicationCrud\bin\System.Web.WebPages.xml
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2017\Projects\Application-Crud\ApplicationCrud\bin\System.Web.WebPages.Deployment.xml
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2017\Projects\Application-Crud\ApplicationCrud\bin\System.Web.WebPages.Razor.xml
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2017\Projects\Application-Crud\ApplicationCrud\bin\Antlr3.Runtime.pdb
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2017\Projects\Application-Crud\ApplicationCrud\bin\Newtonsoft.Json.xml
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2017\Projects\Application-Crud\ApplicationCrud\bin\Microsoft.ApplicationInsights.xml
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2017\Projects\Application-Crud\ApplicationCrud\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2017\Projects\Application-Crud\ApplicationCrud\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2017\Projects\Application-Crud\ApplicationCrud\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2017\Projects\Application-Crud\ApplicationCrud\bin\Microsoft.AI.Web.xml
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2017\Projects\Application-Crud\ApplicationCrud\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2017\Projects\Application-Crud\ApplicationCrud\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2017\Projects\Application-Crud\ApplicationCrud\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2017\Projects\Application-Crud\ApplicationCrud\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2017\Projects\Application-Crud\ApplicationCrud\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2017\Projects\Application-Crud\ApplicationCrud\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2017\Projects\Application-Crud\ApplicationCrud\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2017\Projects\Application-Crud\ApplicationCrud\obj\Debug\ApplicationCrud.csprojResolveAssemblyReference.cache
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2017\Projects\Application-Crud\ApplicationCrud\obj\Debug\ApplicationCrud.Migrations.MigrationProjeto.resources
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2017\Projects\Application-Crud\ApplicationCrud\obj\Debug\ApplicationCrud.Migrations.Dados.resources
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2017\Projects\Application-Crud\ApplicationCrud\obj\Debug\ApplicationCrud.Migrations.MigrationProjeto1.resources
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2017\Projects\Application-Crud\ApplicationCrud\obj\Debug\ApplicationCrud.Migrations.MigrationProjeto2.resources
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2017\Projects\Application-Crud\ApplicationCrud\obj\Debug\ApplicationCrud.Migrations.Dados1.resources
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2017\Projects\Application-Crud\ApplicationCrud\obj\Debug\ApplicationCrud.Migrations.Dados2.resources
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2017\Projects\Application-Crud\ApplicationCrud\obj\Debug\ApplicationCrud.Migrations.Dados3.resources
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2017\Projects\Application-Crud\ApplicationCrud\obj\Debug\ApplicationCrud.Migrations.Dados4.resources
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2017\Projects\Application-Crud\ApplicationCrud\obj\Debug\ApplicationCrud.Migrations.Dados5.resources
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2017\Projects\Application-Crud\ApplicationCrud\obj\Debug\ApplicationCrud.Migrations.UpdateValidations.resources
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2017\Projects\Application-Crud\ApplicationCrud\obj\Debug\ApplicationCrud.csproj.GenerateResource.Cache
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2017\Projects\Application-Crud\ApplicationCrud\obj\Debug\ApplicationCrud.csproj.CoreCompileInputs.cache
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2017\Projects\Application-Crud\ApplicationCrud\obj\Debug\ApplicationCrud.dll
+C:\Users\andrey.schemel.CATOLICASC\Documents\Visual Studio 2017\Projects\Application-Crud\ApplicationCrud\obj\Debug\ApplicationCrud.pdb
+C:\Users\comercial3\source\repos\TFD_ProgTecnologia-master\ApplicationCrud\bin\ApplicationInsights.config
+C:\Users\comercial3\source\repos\TFD_ProgTecnologia-master\ApplicationCrud\bin\ApplicationCrud.dll.config
+C:\Users\comercial3\source\repos\TFD_ProgTecnologia-master\ApplicationCrud\bin\ApplicationCrud.dll
+C:\Users\comercial3\source\repos\TFD_ProgTecnologia-master\ApplicationCrud\bin\ApplicationCrud.pdb
+C:\Users\comercial3\source\repos\TFD_ProgTecnologia-master\ApplicationCrud\bin\Antlr3.Runtime.dll
+C:\Users\comercial3\source\repos\TFD_ProgTecnologia-master\ApplicationCrud\bin\EntityFramework.dll
+C:\Users\comercial3\source\repos\TFD_ProgTecnologia-master\ApplicationCrud\bin\EntityFramework.SqlServer.dll
+C:\Users\comercial3\source\repos\TFD_ProgTecnologia-master\ApplicationCrud\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\comercial3\source\repos\TFD_ProgTecnologia-master\ApplicationCrud\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\comercial3\source\repos\TFD_ProgTecnologia-master\ApplicationCrud\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\comercial3\source\repos\TFD_ProgTecnologia-master\ApplicationCrud\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\comercial3\source\repos\TFD_ProgTecnologia-master\ApplicationCrud\bin\Microsoft.AI.Web.dll
+C:\Users\comercial3\source\repos\TFD_ProgTecnologia-master\ApplicationCrud\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\comercial3\source\repos\TFD_ProgTecnologia-master\ApplicationCrud\bin\Microsoft.ApplicationInsights.dll
+C:\Users\comercial3\source\repos\TFD_ProgTecnologia-master\ApplicationCrud\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\comercial3\source\repos\TFD_ProgTecnologia-master\ApplicationCrud\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\comercial3\source\repos\TFD_ProgTecnologia-master\ApplicationCrud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\comercial3\source\repos\TFD_ProgTecnologia-master\ApplicationCrud\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\comercial3\source\repos\TFD_ProgTecnologia-master\ApplicationCrud\bin\Newtonsoft.Json.dll
+C:\Users\comercial3\source\repos\TFD_ProgTecnologia-master\ApplicationCrud\bin\System.Web.Helpers.dll
+C:\Users\comercial3\source\repos\TFD_ProgTecnologia-master\ApplicationCrud\bin\System.Web.Mvc.dll
+C:\Users\comercial3\source\repos\TFD_ProgTecnologia-master\ApplicationCrud\bin\System.Web.Optimization.dll
+C:\Users\comercial3\source\repos\TFD_ProgTecnologia-master\ApplicationCrud\bin\System.Web.Razor.dll
+C:\Users\comercial3\source\repos\TFD_ProgTecnologia-master\ApplicationCrud\bin\System.Web.WebPages.Deployment.dll
+C:\Users\comercial3\source\repos\TFD_ProgTecnologia-master\ApplicationCrud\bin\System.Web.WebPages.dll
+C:\Users\comercial3\source\repos\TFD_ProgTecnologia-master\ApplicationCrud\bin\System.Web.WebPages.Razor.dll
+C:\Users\comercial3\source\repos\TFD_ProgTecnologia-master\ApplicationCrud\bin\WebGrease.dll
+C:\Users\comercial3\source\repos\TFD_ProgTecnologia-master\ApplicationCrud\bin\EntityFramework.xml
+C:\Users\comercial3\source\repos\TFD_ProgTecnologia-master\ApplicationCrud\bin\EntityFramework.SqlServer.xml
+C:\Users\comercial3\source\repos\TFD_ProgTecnologia-master\ApplicationCrud\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\comercial3\source\repos\TFD_ProgTecnologia-master\ApplicationCrud\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\comercial3\source\repos\TFD_ProgTecnologia-master\ApplicationCrud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\comercial3\source\repos\TFD_ProgTecnologia-master\ApplicationCrud\bin\System.Web.Helpers.xml
+C:\Users\comercial3\source\repos\TFD_ProgTecnologia-master\ApplicationCrud\bin\System.Web.Mvc.xml
+C:\Users\comercial3\source\repos\TFD_ProgTecnologia-master\ApplicationCrud\bin\System.Web.Optimization.xml
+C:\Users\comercial3\source\repos\TFD_ProgTecnologia-master\ApplicationCrud\bin\System.Web.Razor.xml
+C:\Users\comercial3\source\repos\TFD_ProgTecnologia-master\ApplicationCrud\bin\System.Web.WebPages.xml
+C:\Users\comercial3\source\repos\TFD_ProgTecnologia-master\ApplicationCrud\bin\System.Web.WebPages.Deployment.xml
+C:\Users\comercial3\source\repos\TFD_ProgTecnologia-master\ApplicationCrud\bin\System.Web.WebPages.Razor.xml
+C:\Users\comercial3\source\repos\TFD_ProgTecnologia-master\ApplicationCrud\bin\Antlr3.Runtime.pdb
+C:\Users\comercial3\source\repos\TFD_ProgTecnologia-master\ApplicationCrud\bin\Newtonsoft.Json.xml
+C:\Users\comercial3\source\repos\TFD_ProgTecnologia-master\ApplicationCrud\bin\Microsoft.ApplicationInsights.xml
+C:\Users\comercial3\source\repos\TFD_ProgTecnologia-master\ApplicationCrud\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\comercial3\source\repos\TFD_ProgTecnologia-master\ApplicationCrud\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\comercial3\source\repos\TFD_ProgTecnologia-master\ApplicationCrud\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\comercial3\source\repos\TFD_ProgTecnologia-master\ApplicationCrud\bin\Microsoft.AI.Web.xml
+C:\Users\comercial3\source\repos\TFD_ProgTecnologia-master\ApplicationCrud\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\comercial3\source\repos\TFD_ProgTecnologia-master\ApplicationCrud\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\comercial3\source\repos\TFD_ProgTecnologia-master\ApplicationCrud\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\comercial3\source\repos\TFD_ProgTecnologia-master\ApplicationCrud\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\comercial3\source\repos\TFD_ProgTecnologia-master\ApplicationCrud\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\comercial3\source\repos\TFD_ProgTecnologia-master\ApplicationCrud\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\comercial3\source\repos\TFD_ProgTecnologia-master\ApplicationCrud\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\comercial3\source\repos\TFD_ProgTecnologia-master\ApplicationCrud\obj\Debug\ApplicationCrud.csprojResolveAssemblyReference.cache
+C:\Users\comercial3\source\repos\TFD_ProgTecnologia-master\ApplicationCrud\obj\Debug\ApplicationCrud.Migrations.MigrationProjeto.resources
+C:\Users\comercial3\source\repos\TFD_ProgTecnologia-master\ApplicationCrud\obj\Debug\ApplicationCrud.Migrations.Dados.resources
+C:\Users\comercial3\source\repos\TFD_ProgTecnologia-master\ApplicationCrud\obj\Debug\ApplicationCrud.Migrations.MigrationProjeto1.resources
+C:\Users\comercial3\source\repos\TFD_ProgTecnologia-master\ApplicationCrud\obj\Debug\ApplicationCrud.Migrations.MigrationProjeto2.resources
+C:\Users\comercial3\source\repos\TFD_ProgTecnologia-master\ApplicationCrud\obj\Debug\ApplicationCrud.Migrations.Dados1.resources
+C:\Users\comercial3\source\repos\TFD_ProgTecnologia-master\ApplicationCrud\obj\Debug\ApplicationCrud.Migrations.Dados2.resources
+C:\Users\comercial3\source\repos\TFD_ProgTecnologia-master\ApplicationCrud\obj\Debug\ApplicationCrud.Migrations.Dados3.resources
+C:\Users\comercial3\source\repos\TFD_ProgTecnologia-master\ApplicationCrud\obj\Debug\ApplicationCrud.Migrations.Dados4.resources
+C:\Users\comercial3\source\repos\TFD_ProgTecnologia-master\ApplicationCrud\obj\Debug\ApplicationCrud.Migrations.Dados5.resources
+C:\Users\comercial3\source\repos\TFD_ProgTecnologia-master\ApplicationCrud\obj\Debug\ApplicationCrud.Migrations.UpdateValidations.resources
+C:\Users\comercial3\source\repos\TFD_ProgTecnologia-master\ApplicationCrud\obj\Debug\ApplicationCrud.csproj.GenerateResource.Cache
+C:\Users\comercial3\source\repos\TFD_ProgTecnologia-master\ApplicationCrud\obj\Debug\ApplicationCrud.csproj.CoreCompileInputs.cache
+C:\Users\comercial3\source\repos\TFD_ProgTecnologia-master\ApplicationCrud\obj\Debug\ApplicationCrud.dll
+C:\Users\comercial3\source\repos\TFD_ProgTecnologia-master\ApplicationCrud\obj\Debug\ApplicationCrud.pdb
+C:\Users\comercial3\source\repos\TFD_ProgTecnologia-master\ApplicationCrud\obj\Debug\ApplicationCrud.Migrations.AtualizarRequireds.resources
